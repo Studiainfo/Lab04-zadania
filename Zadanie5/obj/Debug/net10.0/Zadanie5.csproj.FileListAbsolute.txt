@@ -1,0 +1,14 @@
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\bin\Debug\net10.0\Zadanie5.exe
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\bin\Debug\net10.0\Zadanie5.deps.json
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\bin\Debug\net10.0\Zadanie5.runtimeconfig.json
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\bin\Debug\net10.0\Zadanie5.dll
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\bin\Debug\net10.0\Zadanie5.pdb
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\obj\Debug\net10.0\Zadanie5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\obj\Debug\net10.0\Zadanie5.AssemblyInfoInputs.cache
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\obj\Debug\net10.0\Zadanie5.AssemblyInfo.cs
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\obj\Debug\net10.0\Zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\obj\Debug\net10.0\Zadanie5.dll
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\obj\Debug\net10.0\refint\Zadanie5.dll
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\obj\Debug\net10.0\Zadanie5.pdb
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\obj\Debug\net10.0\Zadanie5.genruntimeconfig.cache
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie5\obj\Debug\net10.0\ref\Zadanie5.dll
