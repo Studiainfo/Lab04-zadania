@@ -12,3 +12,4 @@ C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie4\obj\Debug\net10.0\refint\Zadani
 C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie4\obj\Debug\net10.0\Zadanie4.pdb
 C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie4\obj\Debug\net10.0\Zadanie4.genruntimeconfig.cache
 C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie4\obj\Debug\net10.0\ref\Zadanie4.dll
+C:\Users\olivi\Desktop\PJATK\PPRG\LAB04\Zadanie4\obj\Debug\net10.0\Zadanie4.sourcelink.json
